@@ -1,2 +1,4 @@
 # Test_Java
-Test random dice of Java language
+Test of Java language
+
+This is dice
